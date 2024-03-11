@@ -6,6 +6,10 @@ In the dynamic world of data, the Business Analytics, Statistics, and Econometri
 ### Overview
 Our focus is on applying analytics expertise to social media, economic indicators, and business insights. We employ deep dive analytics, agent-based modelling, and AI solutions through an interdisciplinary, output-driven, evidence-based approach. Our work adds visibility to the research expertise in this domain.
 
+<p align="center">
+  <img src="https://github.com/ufs-za/BASE/blob/main/GAI/Images/BASE7.JPG" alt="BASE"/>
+</p>
+
 ### Methodologies
 Our methodologies are rooted in the application of advanced analytics. We leverage techniques such as machine learning algorithms for pattern recognition, data mining for knowledge discovery, predictive modeling for forecasting, and statistical analysis for hypothesis testing. These methodologies allow us to extract meaningful insights from complex datasets, enabling us to provide actionable recommendations and strategies. Furthermore, we action insights by aggregating composite indicators for economic insight.
 
@@ -27,6 +31,3 @@ The envisaged outputs are possible with financial support to onboard two post-do
 ### Conclusion
 We look forward to your positive consideration of our proposal. Your support will play a crucial role in advancing our research and contributing to the field of Business Analytics, Statistics, and Econometrics. Together, we can push the boundaries of knowledge, drive innovation, and create a future where data-driven decisions lead to a better world.
 
-<p align="center">
-  <img src="https://github.com/ufs-za/BASE/blob/main/GAI/Images/BASE7.JPG" alt="BASE"/>
-</p>
