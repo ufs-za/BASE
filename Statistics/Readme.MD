@@ -11,8 +11,4 @@ Our focus is on applying analytics expertise to social media, economic indicator
 </p>
 
 ### Methodologies and value proposition
-Our approach to business analytics involves several key techniques:
-
-Econometrics is a branch of economics that applies statistical methods to the empirical study of economic relationships. It involves the measurement and analysis of economic phenomena and has a significant role in economic forecasting, policy analysis, and decision-making. Key indicators used in econometrics include GDP (Gross Domestic Product), inflation rates, unemployment rates, and interest rates. These indicators help economists understand the health of an economy and predict future trends. Additionally, econometricians often use regression models to explore the relationships between different economic variables. For instance, they might use a regression model to understand how changes in interest rates affect GDP. Overall, econometrics provides valuable tools for understanding and interpreting complex economic data.
-
-
+Statistics is a branch of mathematics that deals with the collection, interpretation, analysis, and organization of data. It includes concepts such as descriptive statistics, which summarize data through measures of central tendency and dispersion, and inferential statistics, which make predictions about a population based on a sample. Probability theory, which studies uncertainty, is a fundamental aspect of statistics. Regression analysis is used to understand relationships between variables, and statistical significance helps determine if study findings are likely to be true for a larger population. Overall, statistics is a powerful tool for understanding variability and uncertainty, making informed decisions, and extracting insights from data.
