@@ -1,6 +1,6 @@
 # Business Analytics, Statistics, and Econometrics (BASE)
 
-## Welcome to the BASE Group
+## Welcome to the Business Analytics Sub-Group
 In the dynamic world of data, the Business Analytics, Statistics, and Econometrics (BASE) group stands as a beacon of innovation and expertise. We are a leading research group at the Faculty of Economics and Management Sciences, dedicated to harnessing the power of analytics to drive decision-making processes and solve business problems.
 
 ### Overview
@@ -11,24 +11,14 @@ Our focus is on applying analytics expertise to social media, economic indicator
 </p>
 
 ### Methodologies
-Our methodologies are rooted in the application of advanced analytics. We leverage techniques such as machine learning algorithms for pattern recognition, data mining for knowledge discovery, predictive modeling for forecasting, and statistical analysis for hypothesis testing. These methodologies allow us to extract meaningful insights from complex datasets, enabling us to provide actionable recommendations and strategies. Furthermore, we action insights by aggregating composite indicators for economic insight.
+Our approach to business analytics involves several key techniques:
 
-### Expertise
-The BASE group is led by Dr Herkulaas MvE Combrink and comprises a variety of students and staff from the UFS. Our shared vision is “Data Science for Output Driven and Evidence Based Impact”. This growing team of highly skilled students and researchers have diverse backgrounds in business analytics, statistics, econometrics, and computer science. Our expertise lies in our ability to apply these techniques to real-world problems.
+- Data Collection: We gather data from various sources, ensuring its relevance and accuracy.
+- Data Cleaning: We preprocess the data, handling missing values and outliers to ensure its quality.
+- Data Analysis: We use statistical methods and machine learning algorithms to analyze the data and extract insights.
+- Data Visualization: We present our findings in an easily understandable format using charts, graphs, and dashboards.
+- Decision Making: We use the insights derived from the data to make informed business decisions.
+These techniques allow us to provide comprehensive and accurate analyses that drive our operations and strategies.
 
-### Value Proposition
-The BASE group offers a unique value proposition through its interdisciplinary approach to research and problem-solving. We share our findings and research on an institutional GitHub Platform, through academic publications, and through engaged scholarship. Our work not only contributes to the academic field but also provides practical solutions to businesses and policymakers across various sectors. By supporting our research, you are investing in the development of innovative solutions that have the potential to transform industries and drive economic growth.
-
-### Envisaged Outputs for 2024/2025
-- Creation of a short learning programme in regional innovation.
-- Creation of an Interdisciplinary master’s degree with a focus Business Analytics, Statistics, and Econometrics (BASE).
-- 4 x Research outputs (Journal articles) related to Social Stress Index for social media
-- 4 x Research outputs (Journal articles) related to analytics and machine learning applications.
-- 1 book on regional innovation
-- 
-The envisaged outputs are possible with financial support to onboard two post-doctoral research fellows and a dedicated PhD student in any of these disciplines to assist in growing the BASE group and field.
-
-### Conclusion
-We look forward to your positive consideration of our proposal. Your support will play a crucial role in advancing our research and contributing to the field of Business Analytics, Statistics, and Econometrics. Together, we can push the boundaries of knowledge, drive innovation, and create a future where data-driven decisions lead to a better world.
-
-
+# Value Proposition
+The BASE Group’s Business Analytics team offers a unique value proposition. We not only provide data analysis but also strategic insights that can guide your business towards success. Our team’s expertise in data collection, analysis, and interpretation allows us to provide actionable insights that can lead to improved operational efficiency, increased revenue, and enhanced customer satisfaction. By partnering with us, you’re choosing a path towards data-driven decision making and sustainable business growth.
