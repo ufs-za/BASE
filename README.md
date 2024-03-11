@@ -25,5 +25,5 @@ The BASE group offers a unique value proposition through its interdisciplinary a
 The envisaged outputs are possible with financial support to onboard two post-doctoral research fellows and a dedicated PhD student in any of these disciplines to assist in growing the BASE group and field.
 
 ### Conclusion
-We look forward to your positive consideration of our proposal. Your support will play a crucial role in advancing our research and contributing to the field of Business Analytics, Statistics, and Econometrics. Together, we can push the boundaries of knowledge, drive innovation, and create a future where data-driven decisions lead to a better world.
+Your support will play a crucial role in advancing our research and contributing to the field of Business Analytics, Statistics, and Econometrics. Together, we can push the boundaries of knowledge, drive innovation, and create a future where data-driven decisions lead to a better world.
 
