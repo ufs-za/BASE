@@ -21,7 +21,7 @@ The BASE group offers a unique value proposition through its interdisciplinary a
 - 4 x Research outputs (Journal articles) related to Social Stress Index for social media
 - 4 x Research outputs (Journal articles) related to analytics and machine learning applications.
 - 1 book on regional innovation
-- 
+
 The envisaged outputs are possible with financial support to onboard two post-doctoral research fellows and a dedicated PhD student in any of these disciplines to assist in growing the BASE group and field.
 
 ### Conclusion
