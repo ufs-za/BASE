@@ -26,3 +26,4 @@ The envisaged outputs are possible with financial support to onboard two post-do
 
 ### Conclusion
 We look forward to your positive consideration of our proposal. Your support will play a crucial role in advancing our research and contributing to the field of Business Analytics, Statistics, and Econometrics. Together, we can push the boundaries of knowledge, drive innovation, and create a future where data-driven decisions lead to a better world.
+https://github.com/ufs-za/BASE/blob/main/GAI/Images/BASE7.JPG
