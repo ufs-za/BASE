@@ -1,8 +1,8 @@
+
+# Business Analytics, Statistics, and Econometrics (BASE)
 <p align="center">
   <img src="https://github.com/ufs-za/BASE/blob/main/GAI/Images/BASE LOGO.JPG" alt="BASE"/>
 </p>
-
-# Business Analytics, Statistics, and Econometrics (BASE)
 
 ## Welcome to the BASE Group
 In the dynamic world of data, the Business Analytics, Statistics, and Econometrics (BASE) group stands as a beacon of innovation and expertise. We are a leading research group at the Faculty of Economics and Management Sciences, dedicated to harnessing the power of analytics to drive decision-making processes and solve business problems.
