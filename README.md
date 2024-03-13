@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ufs-za/BASE/blob/main/GAI/Images/BASE LOGO.JPG" alt="BASE"/>
+</p>
+
 # Business Analytics, Statistics, and Econometrics (BASE)
 
 ## Welcome to the BASE Group
