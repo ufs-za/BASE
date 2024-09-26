@@ -3,7 +3,6 @@ import pickle
 import streamlit as st
 import pickle
 import numpy as np
-from google.colab import drive 
 
 # Load the Random Forest model from the Pickle file
 with open('RandomForestModel.pkl', 'rb') as file:
