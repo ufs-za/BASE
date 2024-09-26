@@ -1,7 +1,6 @@
 pip install streamlit
 import pickle
 import streamlit as st
-import pickle
 import numpy as np
 
 # Load the Random Forest model from the Pickle file
