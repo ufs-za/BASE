@@ -1,9 +1,3 @@
-pip install streamlit
-
-import pickle
-import streamlit as st
-import numpy as np
-
 # Load the Random Forest model from the Pickle file
 with open('RandomForestModel.pkl', 'rb') as file:
     model = pickle.load(file)
@@ -42,11 +36,3 @@ if st.button('Predict Purchase Intention'):
 
     accuracy = 0.7529
     st.write(f"Model Accuracy: {accuracy * 100:.2f}%")
-
-!streamlit run JarrydTrip_2020124224_Assignment4.ipynb
-
-!npm install localtunnel
-
-!streamlit run /usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py --server.address=localhost &>/content/logs.txt &
-
-!npx localtunnel --port 8501 & curl ipv4.icanhazip.com
