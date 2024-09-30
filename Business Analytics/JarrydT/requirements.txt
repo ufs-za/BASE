@@ -1,5 +1,4 @@
 #Create a requirements file for streamlit
-pip install --upgrade pip
 streamlit
 numpy
 pandas
