@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 # Load the Random Forest model from the Pickle file
-model = pd.read_pickle("RandomForestModel.pkl")
+model = pd.read_pickle("Model.pkl")
 
 # Define the function for predicting Purchase Intention
 def predict_purchase_intention(inputs):
