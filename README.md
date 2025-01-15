@@ -17,6 +17,7 @@ Some of the Apps developed and Dashboards
 |Name of Application|Source of code|Person responsible|link to App|
 |----|-----|-----|------|
 |Purchase Intention Predictor|https://github.com/ufs-za/JarrydT|Jarryd Trip|https://jarrydt-purchaseintention.streamlit.app/|
+|Purchase Intention Predictor for Soweto|https://github.com/ufs-za/LuyandM|Luynda Mdhuli||
 |Social Listening, Health Infodemic and Pandemic Economics (SLHIPE) Misinformation Portal|N/A - Dashboard|P Mkungeka & HMVE Combrink|https://lookerstudio.google.com/reporting/dc4bfaa5-5aa1-497d-ba92-b834c444f72d/page/VRXyD|
 
 
@@ -25,6 +26,11 @@ Our methodologies are rooted in the application of advanced analytics. We levera
 
 ### Expertise
 The BASE group is led by Dr Herkulaas MvE Combrink and comprises a variety of students and staff from the UFS. Our shared vision is “Data Science for Output Driven and Evidence Based Impact”. This growing team of highly skilled students and researchers have diverse backgrounds in business analytics, statistics, econometrics, and computer science. Our expertise lies in our ability to apply these techniques to real-world problems.
+Below are some of the showcases of the ePortfolios of past conributors
+|Name|ePortfolio Link|Github Page|Expertise|
+|---|---|---|---|
+|Jarryd Trip|
+
 
 ### Value Proposition
 The BASE group offers a unique value proposition through its interdisciplinary approach to research and problem-solving. We share our findings and research on an institutional GitHub Platform, through academic publications, and through engaged scholarship. Our work not only contributes to the academic field but also provides practical solutions to businesses and policymakers across various sectors. By supporting our research, you are investing in the development of innovative solutions that have the potential to transform industries and drive economic growth.
