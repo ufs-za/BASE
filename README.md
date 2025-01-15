@@ -29,7 +29,9 @@ The BASE group is led by Dr Herkulaas MvE Combrink and comprises a variety of st
 Below are some of the showcases of the ePortfolios of past conributors
 |Name|ePortfolio Link|Github Page|Expertise|
 |---|---|---|---|
-|Jarryd Trip|
+|Jarryd Trip|https://sites.google.com/view/jarryd-trip/home|https://github.com/JarrydT/JarrydT|Dana Analytics and Executive Management|
+|Valusha Oelofse|https://sites.google.com/view/valentinaoelofse/home|https://github.com/ValOel7|Data Analytics & Quant Specialist|
+|Molemo Dibe|https://sites.google.com/view/mjdibe-portfolio/home?authuser=0|https://github.com/MolemoDibe|Data Analytics & Business Intelligence|
 
 
 ### Value Proposition
