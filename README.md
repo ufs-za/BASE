@@ -5,7 +5,7 @@
 </p>
 
 ## Welcome to the BASE Group
-In the dynamic world of data, the Business Analytics, Statistics, and Econometrics (BASE) group stands as a beacon of innovation and expertise. We are a leading research group at the Faculty of Economics and Management Sciences, dedicated to harnessing the power of analytics to drive decision-making processes and solve business problems.
+In the dynamic world of data, the Business Analytics, Statistics, and Econometrics (BASE) group stands as a beacon of innovation and expertise. We are a leading research group at the Faculty of Economics and Management Sciences, dedicated to harnessing the power of analytics to drive decision-making processes and solve business problems. We apply Artificial intelligence, Data Analytics, Statistics, mathematics, Accounting, Machine Learning, Deep Learning, Reinforcement Learning and other innovative disciplines and methods including philosophy to drive business intelligence, research and strenthen the domains thereof.
 
 ### Overview
 Our focus is on applying analytics expertise to social media, economic indicators, and business insights. To do so there is a file for each focus group, including **GAI**. **GAI** stands for Generative Artificial Intelligence, which is an important addition to the BASE arsenal that sped up the rate of innovation within this domain. Within the BASE group, we actively use GAI to advance the understanding and science within the field. We employ deep dive analytics, agent-based modelling, and AI solutions through an interdisciplinary, output-driven, evidence-based approach. Our work adds visibility to the research expertise in this domain.
