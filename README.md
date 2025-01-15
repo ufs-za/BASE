@@ -16,6 +16,9 @@ Some of the Apps developed and Dashboards
 
 |Name of Application|Source of code|Person responsible|link to App|
 |----|-----|-----|------|
+|Purchase Intention Predictor|https://github.com/ufs-za/JarrydT|Jarryd Trip|https://jarrydt-purchaseintention.streamlit.app/|
+
+
 
 ### Methodologies
 Our methodologies are rooted in the application of advanced analytics. We leverage techniques such as machine learning algorithms for pattern recognition, data mining for knowledge discovery, predictive modeling for forecasting, and statistical analysis for hypothesis testing. These methodologies allow us to extract meaningful insights from complex datasets, enabling us to provide actionable recommendations and strategies. Furthermore, we action insights by aggregating composite indicators for economic insight.
