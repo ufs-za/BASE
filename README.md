@@ -25,7 +25,7 @@ Some of the Apps developed and Dashboards
 Our methodologies are rooted in the application of advanced analytics. We leverage techniques such as machine learning algorithms for pattern recognition, data mining for knowledge discovery, predictive modeling for forecasting, and statistical analysis for hypothesis testing. These methodologies allow us to extract meaningful insights from complex datasets, enabling us to provide actionable recommendations and strategies. Furthermore, we action insights by aggregating composite indicators for economic insight.
 
 ### Expertise
-The BASE group is led by Dr Herkulaas MvE Combrink and comprises a variety of students and staff from the UFS. Our shared vision is “Data Science for Output Driven and Evidence Based Impact”. This growing team of highly skilled students and researchers have diverse backgrounds in business analytics, statistics, econometrics, and computer science. Our expertise lies in our ability to apply these techniques to real-world problems.
+The BASE group is led by Dr Herkulaas MvE Combrink, a medical computer scientist with specialisation in artificial intelligence, dta analytics and medical science, and comprises a variety of students and staff from the UFS. Our shared vision is “Data Science for Output Driven and Evidence Based Impact”. This growing team of highly skilled students and researchers have diverse backgrounds in business analytics, statistics, econometrics, and computer science. Our expertise lies in our ability to apply these techniques to real-world problems.
 Below are some of the showcases of the ePortfolios of past conributors
 |Name|ePortfolio Link|Github Page|Expertise|
 |---|---|---|---|
