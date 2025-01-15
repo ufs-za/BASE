@@ -17,7 +17,7 @@ Some of the Apps developed and Dashboards
 |Name of Application|Source of code|Person responsible|link to App|
 |----|-----|-----|------|
 |Purchase Intention Predictor|https://github.com/ufs-za/JarrydT|Jarryd Trip|https://jarrydt-purchaseintention.streamlit.app/|
-
+|Social Listening, Health Infodemic and Pandemic Economics (SLHIPE) Misinformation Portal|N/A - Dashboard|P Mkungeka & HMVE Combrink|https://lookerstudio.google.com/reporting/dc4bfaa5-5aa1-497d-ba92-b834c444f72d/page/VRXyD|
 
 
 ### Methodologies
