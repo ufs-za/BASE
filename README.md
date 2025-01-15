@@ -19,7 +19,7 @@ The BASE group is led by Dr Herkulaas MvE Combrink and comprises a variety of st
 ### Value Proposition
 The BASE group offers a unique value proposition through its interdisciplinary approach to research and problem-solving. We share our findings and research on an institutional GitHub Platform, through academic publications, and through engaged scholarship. Our work not only contributes to the academic field but also provides practical solutions to businesses and policymakers across various sectors. By supporting our research, you are investing in the development of innovative solutions that have the potential to transform industries and drive economic growth.
 
-### Envisaged Outputs for 2024/2025
+### Envisaged Outputs
 - Creation of a short learning programme in regional innovation.
 - Creation of an Interdisciplinary master’s degree with a focus Business Analytics, Statistics, and Econometrics (BASE).
 - 4 x Research outputs (Journal articles) related to Social Stress Index for social media
