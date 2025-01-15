@@ -10,6 +10,13 @@ In the dynamic world of data, the Business Analytics, Statistics, and Econometri
 ### Overview
 Our focus is on applying analytics expertise to social media, economic indicators, and business insights. To do so there is a file for each focus group, including **GAI**. **GAI** stands for Generative Artificial Intelligence, which is an important addition to the BASE arsenal that sped up the rate of innovation within this domain. Within the BASE group, we actively use GAI to advance the understanding and science within the field. We employ deep dive analytics, agent-based modelling, and AI solutions through an interdisciplinary, output-driven, evidence-based approach. Our work adds visibility to the research expertise in this domain.
 
+### Our Showcase
+
+Some of the Apps developed and Dashboards
+
+|Name of Application|Source of code|Person responsible|link to App|
+|----|-----|-----|------|
+
 ### Methodologies
 Our methodologies are rooted in the application of advanced analytics. We leverage techniques such as machine learning algorithms for pattern recognition, data mining for knowledge discovery, predictive modeling for forecasting, and statistical analysis for hypothesis testing. These methodologies allow us to extract meaningful insights from complex datasets, enabling us to provide actionable recommendations and strategies. Furthermore, we action insights by aggregating composite indicators for economic insight.
 
