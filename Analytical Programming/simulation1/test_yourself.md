@@ -5,10 +5,10 @@ However, the model is insensitive. Your task is:
 - to rename the use case from disease spread to a different use case. The new use case should be one of the following ideas:
 
 **a. Investment and Portfolio Risk Analysis**
-    - Nodes: Different assets in an investment portfolio.
-    - Edges: Correlations between asset performance.
-    - Infection Mechanism: A market downturn in one sector impacts correlated assets.
-    - Application: Model portfolio diversification strategies to mitigate risk contagion.
+- Nodes: Different assets in an investment portfolio.
+- Edges: Correlations between asset performance.
+- Infection Mechanism: A market downturn in one sector impacts correlated assets.
+- Application: Model portfolio diversification strategies to mitigate risk contagion.
 **b. Market Influence and Brand Reputation Management**
   - Nodes: Customers, social media influencers, online reviewers.
   - Edges: Connections via online interactions, reviews, word-of-mouth.
