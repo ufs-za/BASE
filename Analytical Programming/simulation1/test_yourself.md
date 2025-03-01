@@ -2,7 +2,8 @@
 This simulation provides an **interactive and visual representation** of how a disease spreads in a scale-free network. The combination of **agent-based modeling, probability-based infection, and real-time visualization** makes it a useful tool for understanding epidemiological patterns in complex networks.
 
 However, the model is insensitive. Your task is:
-- to rename the use case from disease spread to a different use case. The new use case should be one of the following ideas:
+- To rename the use case from disease spread to a different use case. The new use case should be one of the ideas below
+- Rename the variables in the code to fit the use case. In other words, remove the word "dead" and replace it with something that is relevant to the use case and sensitive to the context.
 
 **a. Investment and Portfolio Risk Analysis**
 - Nodes: Different assets in an investment portfolio.
