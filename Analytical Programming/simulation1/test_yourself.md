@@ -3,7 +3,8 @@ This simulation provides an **interactive and visual representation** of how a d
 
 However, the model is insensitive. Your task is:
 - to rename the use case from disease spread to a different use case. The new use case should be one of the following ideas:
-  **a. Investment and Portfolio Risk Analysis**
+
+**a. Investment and Portfolio Risk Analysis**
     - Nodes: Different assets in an investment portfolio.
     - Edges: Correlations between asset performance.
     - Infection Mechanism: A market downturn in one sector impacts correlated assets.
