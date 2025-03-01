@@ -47,9 +47,9 @@ However, the model is insensitive. Your task is:
   - Spread Mechanism: High-performing employees influence peers, but disengagement or toxic work culture can also spread.
   - Application: Improve employee retention and performance by identifying positive and negative network influences.
 
-This model can be extended to incorporate:
-- **Vaccination strategies** (nodes gaining immunity after recovery)
-- **Different infection probabilities** based on node importance
-- **Quarantine measures** to limit disease spread
+Remember, that this simple model can be extended to incorporate:
+- **Implimentation strategies** (nodes gaining some property after the change)
+- **Different probabilities** based on node importance
+- **Spread limitation measures** to limit spread
 
 Future improvements could include **more advanced recovery rules, social distancing effects, and agent movement behaviors** for even more realistic simulations.
