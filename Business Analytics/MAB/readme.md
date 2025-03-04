@@ -4,22 +4,22 @@
 This Streamlit application demonstrates **Multi-Armed Bandit (MAB) algorithms** for dynamically optimizing advertising choices. The application simulates **four different advertisements** competing for clicks, with three MAB strategies adapting in real time to determine the best-performing ad.
 
 ## Features
-✅ **Live Click Simulation**: Users click on advertisements to simulate engagement.  
-✅ **Adaptive Learning**: Three MAB strategies dynamically update decisions.  
-✅ **Statistical Evaluation**: Estimates real-time conversion rates.  
-✅ **Comparison of MAB Strategies**: Evaluates **Epsilon-Greedy, Upper Confidence Bound (UCB), and Thompson Sampling**.  
-✅ **Graphical Visualization**: Displays conversion rates for all ads in a real-time bar chart.  
+**Live Click Simulation**: Users click on advertisements to simulate engagement.  
+**Adaptive Learning**: Three MAB strategies dynamically update decisions.  
+**Statistical Evaluation**: Estimates real-time conversion rates.  
+**Comparison of MAB Strategies**: Evaluates **Epsilon-Greedy, Upper Confidence Bound (UCB), and Thompson Sampling**.  
+**Graphical Visualization**: Displays conversion rates for all ads in a real-time bar chart.  
 
 ## Multi-Armed Bandit Strategies
-### **1️⃣ Epsilon-Greedy**
+### **1️ Epsilon-Greedy**
 - Explores **random ads** with probability `ε = 0.1`.
 - Exploits the **best-known ad** the rest of the time.
 
-### **2️⃣ Upper Confidence Bound (UCB)**
+### **2️ Upper Confidence Bound (UCB)**
 - Balances **uncertainty vs. known performance**.
 - Selects ads with the **highest potential improvement**.
 
-### **3️⃣ Thompson Sampling**
+### **3️ Thompson Sampling**
 - Uses **Bayesian probability updates**.
 - Selects ads based on **randomized beta distributions**.
 
@@ -54,6 +54,5 @@ A bar chart dynamically updates to show the estimated conversion rates for each 
 ## License
 This project is open-source and available for modification and enhancement.
 
-🚀 **Enjoy optimizing your ad placements dynamically!**
 
 
