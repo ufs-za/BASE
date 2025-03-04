@@ -4,11 +4,11 @@
 This Streamlit application demonstrates **A/B Testing** by allowing users to click and interact with **two different versions (A & B)** of a feature. The app tracks user interactions and performs a **statistical analysis** to determine if one version performs significantly better than the other.
 
 ## Features
-✅ **User Interaction**: Click-based experiment simulating user behavior.  
-✅ **Conversion Tracking**: Monitors clicks and total visitors.  
-✅ **Statistical Significance Testing**: Uses **Z-test** to analyze differences.  
-✅ **Real-time Visualization**: Displays conversion rates dynamically.  
-✅ **Live Decision Updates**: Provides insights on whether one version is better.
+ **User Interaction**: Click-based experiment simulating user behavior.  
+ **Conversion Tracking**: Monitors clicks and total visitors.  
+ **Statistical Significance Testing**: Uses **Z-test** to analyze differences.  
+ **Real-time Visualization**: Displays conversion rates dynamically.  
+ **Live Decision Updates**: Provides insights on whether one version is better.
 
 ## How It Works
 1. **Users click on either Version A or Version B** to simulate real-world engagement.
