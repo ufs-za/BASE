@@ -47,6 +47,3 @@ A dynamic bar chart visualizes the conversion rates for both versions A & B.
 
 ## License
 This project is open-source and available for modification and enhancement.
-
-🚀 **Optimize your experiments and make data-driven decisions!**
-
