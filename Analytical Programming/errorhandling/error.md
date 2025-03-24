@@ -1,9 +1,5 @@
 #  Error Handling Guide
 
-Welcome to the **Error Handling** documentation. This guide outlines how the system detects, logs, and handles errors to ensure a smooth and predictable user experience.
-
----
-
 ##  Why Error Handling Matters
 
 Effective error handling:
