@@ -205,7 +205,31 @@ if st.session_state.simulation_started:
     }
 
     df_stats = pd.DataFrame.from_dict(stats, orient='index', columns=['Territories']).rename_axis("Agent")
+
+    import matplotlib.pyplot as plt
+
+    # Show table
     st.dataframe(df_stats)
-    st.bar_chart(df_stats)
+
+    # Custom-colored bar chart using matplotlib
+    st.subheader("📊 Bar Chart (Color-coded)")
+
+    fig, ax = plt.subplots()
+    bars = ax.bar(
+        df_stats.index,
+        df_stats['Territories'],
+        color=[
+            '#FF0000',  # Red for Agent A
+            '#0000FF',  # Blue for Agent B
+            '#00FF00'   # Green for Agent C
+        ]
+    )
+
+    ax.set_ylabel("Territories")
+#    ax.set_ylim(0, st.session_state.num_territories)
+    ax.set_ylim(0, 200)
+    ax.set_title("Territories Owned by Agent")
+    st.pyplot(fig)
+
 else:
     st.info("Click **Start Simulation** to begin.")
