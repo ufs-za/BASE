@@ -121,7 +121,7 @@ except requests.exceptions.RequestException as e:
 
 ##  Support
 
-If you encounter unexpected errors or bugs, please [open an issue](https://github.com/yourproject/issues) with:
+If you encounter unexpected errors or bugs, please open an issue with the project you are busy with.
 - Steps to reproduce the problem
 - Stack trace or error message
 - Expected vs actual behavior
