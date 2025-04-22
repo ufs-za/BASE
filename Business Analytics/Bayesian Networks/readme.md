@@ -18,11 +18,4 @@ Cold → Fever Cold → Cough Flu → Fever Flu → Cough Fever → TestResult
 
 This shows that **Cold and Flu** can cause **Fever and Cough**, and **Fever** affects the **TestResult**.
 
-## 🚀 Getting Started
-
-### **1️⃣ Install BNlearn**
-To use Bayesian Networks in Python, install the `bnlearn` library:
-```bash
-pip install bnlearn
-
 ## Once you are done, there are .ipynb files for you to test your knowledge
