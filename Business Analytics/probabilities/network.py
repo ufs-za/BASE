@@ -3,9 +3,6 @@ import networkx as nx
 import numpy as np
 import pandas as pd
 
-# Streamlit App: Lottery Predictor
-# --------------------------------
-
 # 1. Page configuration
 st.set_page_config(page_title="🎯 Lottery Predictor", layout="centered")
 
