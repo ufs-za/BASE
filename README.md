@@ -5,7 +5,7 @@
 </p>
 
 ## Welcome to the BASE Group
-In the dynamic world of data, the Business Analytics, Statistics, and Econometrics (BASE) group stands as a beacon of innovation and expertise. We are a leading research group at the Faculty of Economics and Management Sciences, dedicated to harnessing the power of analytics to drive decision-making processes and solve business problems. We apply Artificial intelligence, Data Analytics, Statistics, mathematics, Accounting, Machine Learning, Deep Learning, Reinforcement Learning and other innovative disciplines and methods including philosophy to drive business intelligence, research and strengthen the domains thereof.
+In the dynamic world of data, the Business Analytics, Statistics, and Econometrics (BASE) group stands as a beacon of innovation and expertise. We are a leading research group at the Faculty of Economics and Management Sciences, dedicated to harnessing the power of analytics to drive decision-making processes and solve business problems. We apply Artificial Intelligence, Data Analytics, Statistics, Mathematics, Accounting, Machine Learning, Deep Learning, Reinforcement Learning and other innovative disciplines and methods including philosophy to drive business intelligence, research and strengthen the domains thereof.
 
 ### Overview
 Our focus is on applying analytics expertise to social media, economic indicators, and business insights. To do so there is a file for each focus group, including **GAI**. **GAI** stands for Generative Artificial Intelligence, which is an important addition to the BASE arsenal that sped up the rate of innovation within this domain. Within the BASE group, we actively use GAI to advance the understanding and science within the field. We employ deep dive analytics, agent-based modelling, and AI solutions through an interdisciplinary, output-driven, evidence-based approach. Our work adds visibility to the research expertise in this domain.
@@ -22,10 +22,10 @@ Some of the Apps developed and Dashboards
 
 
 ### Methodologies
-Our methodologies are rooted in the application of advanced analytics. We leverage techniques such as machine learning algorithms for pattern recognition, data mining for knowledge discovery, predictive modeling for forecasting, and statistical analysis for hypothesis testing. These methodologies allow us to extract meaningful insights from complex datasets, enabling us to provide actionable recommendations and strategies. Furthermore, we action insights by aggregating composite indicators for economic insight.
+Our methodologies are rooted in the application of advanced analytics. We leverage techniques such as machine learning algorithms for pattern recognition, data mining for knowledge discovery, predictive modelling for forecasting, and statistical analysis for hypothesis testing. These methodologies allow us to extract meaningful insights from complex datasets, enabling us to provide actionable recommendations and strategies. Furthermore, we action insights by aggregating composite indicators for economic insight.
 
 ### Expertise
-The BASE group is led by Dr Herkulaas MvE Combrink, a medical computer scientist with specialisation in artificial intelligence, dta analytics and medical science, and comprises a variety of students and staff from the UFS. Our shared vision is “Data Science for Output Driven and Evidence Based Impact”. This growing team of highly skilled students and researchers have diverse backgrounds in business analytics, statistics, econometrics, and computer science. Our expertise lies in our ability to apply these techniques to real-world problems.
+The BASE group is led by Dr Herkulaas MvE Combrink, a medical computer scientist with specialisation in artificial intelligence, data analytics and medical science, and comprises a variety of students and staff from the UFS. Our shared vision is “Data Science for Output Driven and Evidence Based Impact”. This growing team of highly skilled students and researchers have diverse backgrounds in business analytics, statistics, econometrics, and computer science. Our expertise lies in our ability to apply these techniques to real-world problems.
 Below are some of the showcases of the ePortfolios of past conributors
 |Name|ePortfolio Link|Github Page|Expertise|
 |---|---|---|---|
