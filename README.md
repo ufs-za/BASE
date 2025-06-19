@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/ufs-za/BASE/blob/main/GAI/Images/BASE LOGO2.jpg" alt="BASE"/>
 </p>
-|---|---|---|
+
 |data1|data2|data3|
 |---|---|---|
 ## Welcome to the BASE Group
