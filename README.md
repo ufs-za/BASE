@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://github.com/ufs-za/BASE/blob/main/GAI/Images/BASE LOGO2.jpg" alt="BASE"/>
 </p>
-
+|---|---|---|
+|data1|data2|data3|
+|---|---|---|
 ## Welcome to the BASE Group
 In the dynamic world of data, the Business Analytics, Statistics, and Econometrics (BASE) group stands as a beacon of innovation and expertise. We are a leading research group at the Faculty of Economics and Management Sciences, dedicated to harnessing the power of analytics to drive decision-making processes and solve business problems. We apply Artificial intelligence, Data Analytics, Statistics, mathematics, Accounting, Machine Learning, Deep Learning, Reinforcement Learning and other innovative disciplines and methods including philosophy to drive business intelligence, research and strenthen the domains thereof.
 
